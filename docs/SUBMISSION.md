@@ -62,7 +62,8 @@ when the site redesigns — the scraper self-heals and the feed keeps flowing.
 
 - Repo: https://github.com/JrKrishh/scrape-verse-radar
 - Dashboard: https://scrape-verse-radar.manir1179.workers.dev
-- Demo video: <paste YouTube/unlisted link>
+- Demo video: https://github.com/JrKrishh/scrape-verse-radar/releases/tag/submission
+  (direct asset: https://github.com/JrKrishh/scrape-verse-radar/releases/download/submission/demo-video.mp4)
 - CI runs: https://github.com/JrKrishh/scrape-verse-radar/actions
 
 ## How Scraper Studio was used (for the form)
@@ -90,5 +91,6 @@ when the site redesigns — the scraper self-heals and the feed keeps flowing.
 - Custom Scraper Studio collector: yes (`c_msygw29h15ak5olz7j`)
 - Public data only: yes (public job-notification listing, no login walls)
 - Repo + README + example output: yes (`data/latest.json`, heal snapshots)
-- Demo video: <link>
+- Demo video: https://github.com/JrKrishh/scrape-verse-radar/releases/tag/submission
+  (direct asset: https://github.com/JrKrishh/scrape-verse-radar/releases/download/submission/demo-video.mp4)
 - Coding began after Aug 17: yes
