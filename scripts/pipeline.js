@@ -4,7 +4,10 @@ const path = require("path");
 const API = "https://api.brightdata.com";
 const TOKEN = process.env.BRIGHT_DATA_API_TOKEN;
 const COLLECTOR = process.env.SCRAPER_STUDIO_COLLECTOR_ID;
-const URLS = JSON.parse(process.env.TARGET_URLS || "[]");
+const rawUrls = process.env.TARGET_URLS || "[]";
+const URLS = rawUrls.trim().startsWith("[")
+  ? JSON.parse(rawUrls)
+  : [rawUrls.trim()];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
