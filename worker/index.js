@@ -81,6 +81,10 @@ export default {
   },
   async fetch(req, env) {
     const url = new URL(req.url);
+    if (url.pathname === "/breakme")
+      return new Response((await env.RADAR_KV.get("breakme_html")) || BREAKME_V1, {
+        headers: { "content-type": "text/html; charset=utf-8" },
+      });
     if (url.pathname === "/api/notifications")
       return json((await env.RADAR_KV.get("latest", "json")) || { items: [], updated_at: null });
     if (url.pathname === "/api/events") return json((await env.RADAR_KV.get("events", "json")) || []);
@@ -94,6 +98,34 @@ export default {
     return new Response(DASHBOARD_HTML, { headers: { "content-type": "text/html" } });
   },
 };
+
+const BREAKME_V1 = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Tamil Nadu Public Service Commission - Latest Notifications</title>
+</head>
+<body>
+<h1>Latest Notifications</h1>
+<div id="notifications">
+  <div class="notification">
+    <h3 class="notif-title">CCSE-I (Group-I Services) Notification</h3>
+    <span class="notif-date">12-Aug-2026</span>
+    <a class="notif-link" href="/documents/ccse1.pdf">View</a>
+  </div>
+  <div class="notification">
+    <h3 class="notif-title">Group-II (Interview Posts) Results Released</h3>
+    <span class="notif-date">08-Aug-2026</span>
+    <a class="notif-link" href="/documents/group2.pdf">View</a>
+  </div>
+  <div class="notification">
+    <h3 class="notif-title">Combined Engineering Services Exam Date Announcement</h3>
+    <span class="notif-date">01-Aug-2026</span>
+    <a class="notif-link" href="/documents/cese.pdf">View</a>
+  </div>
+</div>
+</body>
+</html>`;
 
 const DASHBOARD_HTML = `<!DOCTYPE html>
 <html lang="en">

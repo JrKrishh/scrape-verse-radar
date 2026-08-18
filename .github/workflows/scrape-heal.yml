@@ -20,14 +20,14 @@ jobs:
         id: run
         run: node scripts/pipeline.js
         continue-on-error: true
-      - name: Self-heal
-        if: steps.run.outcome == 'failure'
+      - name: Self-heal and publish
+        if: steps.run.outcome == 'failure' && steps.run.outputs.heal_needed == '1'
         run: |
-          npx -p @brightdata/cli bdata scraper heal $SCRAPER_STUDIO_COLLECTOR_ID \
-            "Extraction came back empty or with missing fields after the site changed. Fix the extraction so all fields return values." \
-            --url $(echo $TARGET_URLS | jq -r '.[0]') --auto-approve
+          node scripts/heal.js $SCRAPER_STUDIO_COLLECTOR_ID \
+            "Extraction came back empty or with missing fields after the site changed. Repair the extraction so every field returns values." \
+            "$(echo $TARGET_URLS | jq -r '.[0]')"
       - name: Re-run after heal
-        if: steps.run.outcome == 'failure'
+        if: steps.run.outcome == 'failure' && steps.run.outputs.heal_needed == '1'
         run: node scripts/pipeline.js
       - name: Commit results
         run: |

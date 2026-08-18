@@ -1,13 +1,14 @@
 name = "scrape-verse-radar"
 main = "index.js"
 compatibility_date = "2025-08-01"
+account_id = "87b34e4e79caec2b4dd48f199759c9fa"
 
 [vars]
 TARGET_URLS = "[\"https://www.freejobalert.com/tn-government-jobs/\"]"
 
 [[kv_namespaces]]
 binding = "RADAR_KV"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "56009b48330b401c82283e5780cc02ef"
 
 [triggers]
 crons = ["0 4 * * *"]

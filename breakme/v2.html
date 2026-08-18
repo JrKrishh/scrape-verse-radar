@@ -5,28 +5,16 @@
 <title>tnpsc.gov.in - Notifications</title>
 </head>
 <body>
-<section class="announcements">
-  <article class="card">
-    <header>
-      <h2 data-heading="notification-title">CCSE-I (Group-I Services) Notification</h2>
-      <time data-date="published">12-Aug-2026</time>
-    </header>
-    <footer><a data-action="download" href="/docs/ccse1.pdf">Download PDF</a></footer>
-  </article>
-  <article class="card">
-    <header>
-      <h2 data-heading="notification-title">Group-II (Interview Posts) Results Released</h2>
-      <time data-date="published">08-Aug-2026</time>
-    </header>
-    <footer><a data-action="download" href="/docs/group2.pdf">Download PDF</a></footer>
-  </article>
-  <article class="card">
-    <header>
-      <h2 data-heading="notification-title">Combined Engineering Services Exam Date Announcement</h2>
-      <time data-date="published">01-Aug-2026</time>
-    </header>
-    <footer><a data-action="download" href="/docs/cese.pdf">Download PDF</a></footer>
-  </article>
-</section>
+<div id="app"></div>
+<script>
+  const payload = [
+    { title: "CCSE-I (Group-I Services) Notification", date: "12-Aug-2026", link: "/documents/ccse1.pdf" },
+    { title: "Group-II (Interview Posts) Results Released", date: "08-Aug-2026", link: "/documents/group2.pdf" },
+    { title: "Combined Engineering Services Exam Date Announcement", date: "01-Aug-2026", link: "/documents/cese.pdf" }
+  ];
+  document.getElementById("app").innerHTML = payload.map(function (n) {
+    return '<div class="list-item"><span class="l-title">' + n.title + '</span><span class="l-date">' + n.date + '</span><a class="l-link" href="' + n.link + '">View</a></div>';
+  }).join("");
+</script>
 </body>
 </html>

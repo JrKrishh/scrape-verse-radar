@@ -87,19 +87,35 @@ passing heal demo lives in `breakme/` (see below).
 
 ## Self-healing demo (controlled break)
 
-`breakme/index.html` (v1 markup) and `breakme/v2.html` (redesigned markup, same
-content) are served from GitHub Pages. The demo collector targets the Pages URL.
-Break it by pushing v2 as `index.html`, watch extraction fail, then heal:
+The demo page lives on the dashboard worker: `scrape-verse-radar.manir1179.workers.dev/breakme`
+serves v1 markup by default. A "site redesign" is simulated by writing the
+JS-rendered v2 markup into KV — one command, instantly reversible:
 
 ```sh
-npx -p @brightdata/cli bdata scraper heal <demo_collector> \
-  "The page was redesigned: titles moved to [data-heading], dates to [data-date]. Re-capture all fields." \
-  --url https://jrkrishh.github.io/scrape-verse-radar/breakme/
-npx -p @brightdata/cli bdata scraper approve <demo_collector> --url https://jrkrishh.github.io/scrape-verse-radar/breakme/
+npx wrangler kv key put --binding=RADAR_KV breakme_html --path ../breakme/v2.html --remote
+npx wrangler kv key delete --binding=RADAR_KV breakme_html --remote   # restore v1
 ```
 
-Same Collector ID, same data shape, nothing downstream touched.
-See `docs/DEMO_SCRIPT.md` for the full recording script.
+Rehearsed flow (all verified live):
+
+| Step | Result |
+|---|---|
+| run `c_msyjvrj260j7iso3o` on v1 | 3 clean rows |
+| swap in v2 (content rendered client-side) | `[]` — zero rows, `HEAL_NEEDED` |
+| `node scripts/heal.js c_msyjvrj260j7iso3o "<redesign prompt>" <url>` | preview shows recovered rows, `auto_save: true` publishes |
+| re-run, same Collector ID | 3 clean rows again |
+
+Two production lessons from the rehearsal are baked into the repo:
+
+1. The CLI's `heal approve` accepts the diff into a **draft** but does not
+   publish it. `scripts/heal.js` drives the AI-Flow API directly
+   (`refactor_template` → poll → `resume_automation_job` with
+   `{"message": true, "auto_save": true}`) so the fix actually reaches
+   production — which is what makes the unattended CI heal loop real.
+2. A collector generated against a page the crawler cannot reach (GitHub
+   Pages, raw.githubusercontent.com and workers.dev were all 404 to the
+   crawler at build time) inherits dead selectors. The demo collector was
+   rebuilt against the workers.dev URL after that discovery.
 
 ## Dashboard worker
 

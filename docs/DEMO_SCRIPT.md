@@ -1,47 +1,69 @@
 # Demo video script (~3 min)
 
+Everything below has been rehearsed against the live deployment. Commands in
+this file are the exact ones to run on camera.
+
 ## Act 1 — The problem (30s)
 
-1. Screen: tnpsc.gov.in/English/Notification.aspx. Point out: no RSS icon, no API,
-   plain ASP.NET, vendor updates change the layout regularly.
-2. Voice: "TNPSC aspirants refresh this page daily. When the site redesigns, the
-   scrapers people build quietly break. Sangah — my Play Store app with TNPSC
-   prep users — has no reliable way to get these notifications."
+1. Screen: freejobalert.com/tn-government-jobs/. Point out: no RSS icon, no
+   API, plain list page, layout changes whenever the site redesigns.
+2. Voice: "TN exam aspirants live on this page. TNPSC Group posts, state
+   vacancies, results. When the site redesigns, scrapers people built against
+   it quietly break. This build keeps the data flowing anyway — and feeds it
+   into the same Cloudflare stack that powers Sangah, my Play Store exam-prep
+   app."
 
-## Act 2 — Build with the CLI (45s)
+## Act 2 — Build with the CLI (30s)
 
-3. Terminal: `bdata scraper create https://tnpsc.gov.in/English/Notification.aspx "Extract each latest notification: title, date, document link"` — show the AI
-   stages printing, Collector ID `c_...` returned.
-4. `bdata scraper run <c_...> <url> --pretty` — clean JSON rows.
-5. Show `data/latest.json` in the repo: the same output, committed.
+3. Terminal: `npx -p @brightdata/cli bdata scraper create
+   https://www.freejobalert.com/tn-government-jobs/ "Extract each job
+   notification: job title, organization name, number of vacancies, last date
+   to apply, and the article link"` — cut to the finished run: Collector ID
+   `c_msygw29h15ak5olz7j`.
+4. `bdata scraper run c_msygw29h15ak5olz7j <url> --pretty` — show clean JSON,
+   TNPSC Group 2 & 2A (821 posts) visible.
+5. Show `data/latest.json` in the repo: 90 unique items, normalized + deduped.
 
-## Act 3 — The pipeline (45s)
+## Act 3 — The pipeline (40s)
 
-6. Show the GitHub Actions run (wall of green): cron triggers `scripts/pipeline.js`,
-   which POSTs `/dca/trigger`, polls `/dca/dataset`, validates every field.
-7. Show the Cloudflare dashboard: notifications timeline, health badge, heal log.
+6. Show `scripts/pipeline.js` flow: POST /dca/trigger → poll /dca/dataset →
+   normalize → validate. Then the live dashboard at
+   scrape-verse-radar.manir1179.workers.dev: notifications timeline, event log,
+   health badge.
+7. Show the GitHub Actions run (wall of green): nightly cron runs the same
+   script; validation failure flips `heal_needed` and the heal step fires.
 
-## Act 4 — The break + heal (60s)
+## Act 4 — The break + heal (60s, the money shot)
 
-8. Breakme demo: run the demo collector on v1 of our page — rows flow.
-9. Swap in v2 (redesigned markup, same content). Re-run — extraction returns zero
-   rows / empty fields. `HEAL_NEEDED`.
-10. `bdata scraper heal <same c_...> "The page was redesigned: titles moved to
-    [data-heading], dates to [data-date]. Re-capture all fields."` → preview shows
-    recovered rows → `bdata scraper approve <same c_...>` → re-run.
-11. Emphasize: **same Collector ID** — the cron, the worker, the dashboard never
-    changed. Then show the automated version: GH Actions heal step running the same
-    heal unattended.
+8. Terminal: run the demo collector against the demo page (v1 markup):
 
-## Act 5 — Impact + close (30s)
+   `bdata scraper run c_msyjvrj260j7iso3o https://scrape-verse-radar.manir1179.workers.dev/breakme --pretty`
 
-12. "The diff of new notifications feeds Sangah's news pipeline — real users on the
-    Play Store see new exam announcements the day they're published, even when the
-    site breaks under us."
-13. Quick architecture diagram, credits, repo URL.
+   Three rows, clean schema.
+9. The "site redesign": push the JS-rendered markup live with one command:
+
+   `npx wrangler kv key put --binding=RADAR_KV breakme_html --path ../breakme/v2.html --remote`
+
+10. Re-run the same collector command. Output: `[]`. Zero rows. State the
+    validator verdict: `HEAL_NEEDED: extraction returned zero rows`.
+11. Heal: `node --env-file=.env scripts/heal.js c_msyjvrj260j7iso3o
+    "<prompt describing the JS redesign>" <url>` — show the preview result with
+    recovered rows, then `auto_save: true` publishing the fix.
+12. Re-run the same collector command: three rows again. Emphasize: same
+    Collector ID, nothing downstream touched.
+13. Optional cut: the same heal running unattended in GitHub Actions.
+
+## Act 5 — Impact + close (20s)
+
+14. "New notifications are diffed against the previous snapshot and exposed at
+    /api/notifications — ready for Sangah's news worker to push to real users
+    on the Play Store. The scraper now heals itself. That's the point."
+15. Architecture diagram, repo URL, credits.
 
 ## Recording notes
 
-- Record at 1080p, terminal zoomed, no secrets visible (mask token with env var echo).
-- If TNPSC is slow/unavailable during recording, do Act 2/4 on the breakme page and
-  show a pre-recorded TNPSC run from `data/snapshot-*.json`.
+- 1080p, terminal zoomed, no secrets visible (tokens live in .env; never echo).
+- The breakme page is currently restored to v1; the KV swap in step 9 is
+  instantly reversible (`wrangler kv key delete --binding=RADAR_KV breakme_html --remote`).
+- If the heal runs long on camera (it polls), pre-heal before recording and
+  replay the terminal scroll for the middle, then run the final verification live.

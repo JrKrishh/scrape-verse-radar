@@ -75,6 +75,9 @@ async function run() {
   const problems = validate(normalize(rows));
   if (problems.length) {
     console.log(`HEAL_NEEDED: ${problems.join("; ")}`);
+    if (process.env.GITHUB_OUTPUT) {
+      fs.appendFileSync(process.env.GITHUB_OUTPUT, "heal_needed=1\n");
+    }
     process.exit(1);
   }
   console.log(`OK: ${normalize(rows).length} unique items, snapshot ${snapshotId}`);
