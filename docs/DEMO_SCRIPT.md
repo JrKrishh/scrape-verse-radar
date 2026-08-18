@@ -44,6 +44,13 @@ this file are the exact ones to run on camera.
 
    `npx wrangler kv key put --binding=RADAR_KV breakme_html --path ../breakme/v2.html --remote`
 
+   If wrangler misbehaves on Windows, the equivalent REST call:
+
+   `Invoke-WebRequest -Uri "https://api.cloudflare.com/client/v4/accounts/87b34e4e79caec2b4dd48f199759c9fa/storage/kv/namespaces/56009b48330b401c82283e5780cc02ef/values/breakme_html" -Method Put -Headers @{Authorization="Bearer $env:CLOUDFLARE_API_TOKEN"} -ContentType "text/html" -Body (Get-Content ..\breakme\v2.html -Raw)`
+
+   (Restore v1 the same way: delete the `breakme_html` key, and the worker
+   falls back to the built-in v1 markup.)
+
 10. Re-run the same collector command. Output: `[]`. Zero rows. State the
     validator verdict: `HEAL_NEEDED: extraction returned zero rows`.
 11. Heal: `node --env-file=.env scripts/heal.js c_msyjvrj260j7iso3o
