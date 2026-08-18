@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" font-family="Segoe UI, system-ui, sans-serif">
+  <rect width="960" height="540" fill="#0b1220"/>
+  <text x="480" y="36" text-anchor="middle" fill="#e5e7eb" font-size="22" font-weight="700">Scrape-Verse Radar</text>
+
+  <rect x="60" y="70" width="220" height="70" rx="10" fill="#111a2e" stroke="#334155"/>
+  <text x="170" y="100" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">freejobalert.com</text>
+  <text x="170" y="122" text-anchor="middle" fill="#94a3b8" font-size="12">TN government jobs page</text>
+
+  <rect x="370" y="70" width="220" height="70" rx="10" fill="#1e293b" stroke="#38bdf8"/>
+  <text x="480" y="96" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">Scraper Studio collector</text>
+  <text x="480" y="118" text-anchor="middle" fill="#38bdf8" font-size="13">c_msygw29h15ak5olz7j</text>
+
+  <rect x="680" y="60" width="220" height="90" rx="10" fill="#1e293b" stroke="#38bdf8"/>
+  <text x="790" y="88" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">Self-heal loop</text>
+  <text x="790" y="110" text-anchor="middle" fill="#94a3b8" font-size="12">validate fields</text>
+  <text x="790" y="130" text-anchor="middle" fill="#94a3b8" font-size="12">heal + auto_save</text>
+
+  <line x1="280" y1="105" x2="370" y2="105" stroke="#38bdf8" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="590" y1="105" x2="680" y2="105" stroke="#38bdf8" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M 790 60 C 790 30 480 30 480 70" stroke="#facc15" stroke-width="2" fill="none" marker-end="url(#a)"/>
+
+  <rect x="370" y="200" width="220" height="70" rx="10" fill="#111a2e" stroke="#334155"/>
+  <text x="480" y="230" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">POST /dca/trigger</text>
+  <text x="480" y="252" text-anchor="middle" fill="#94a3b8" font-size="12">one Collector ID, two consumers</text>
+
+  <rect x="60" y="250" width="220" height="120" rx="10" fill="#111a2e" stroke="#334155"/>
+  <text x="170" y="278" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">GitHub Actions</text>
+  <text x="170" y="300" text-anchor="middle" fill="#94a3b8" font-size="12">03:30 UTC cron</text>
+  <text x="170" y="320" text-anchor="middle" fill="#94a3b8" font-size="12">validate &#8594; heal &#8594; re-run</text>
+  <text x="170" y="340" text-anchor="middle" fill="#94a3b8" font-size="12">commit results</text>
+
+  <rect x="680" y="250" width="220" height="120" rx="10" fill="#111a2e" stroke="#334155"/>
+  <text x="790" y="278" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="600">Cloudflare Worker</text>
+  <text x="790" y="300" text-anchor="middle" fill="#94a3b8" font-size="12">04:00 UTC cron</text>
+  <text x="790" y="320" text-anchor="middle" fill="#94a3b8" font-size="12">normalize + diff vs KV</text>
+  <text x="790" y="340" text-anchor="middle" fill="#94a3b8" font-size="12">dashboard + JSON feed</text>
+
+  <line x1="370" y1="235" x2="170" y2="250" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="590" y1="235" x2="790" y2="250" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="680" y="420" width="220" height="70" rx="10" fill="#0f2a1c" stroke="#4ade80"/>
+  <text x="790" y="450" text-anchor="middle" fill="#4ade80" font-size="14" font-weight="600">/api/notifications</text>
+  <text x="790" y="472" text-anchor="middle" fill="#94a3b8" font-size="12">feed for Sangah news worker</text>
+
+  <line x1="790" y1="370" x2="790" y2="420" stroke="#4ade80" stroke-width="2" marker-end="url(#a)"/>
+
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 z" fill="#38bdf8"/>
+    </marker>
+  </defs>
+</svg>
