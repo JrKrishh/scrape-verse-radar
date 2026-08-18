@@ -1,0 +1,38 @@
+name: scrape-heal
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    env:
+      BRIGHT_DATA_API_TOKEN: ${{ secrets.BRIGHT_DATA_API_TOKEN }}
+      SCRAPER_STUDIO_COLLECTOR_ID: ${{ secrets.SCRAPER_STUDIO_COLLECTOR_ID }}
+      TARGET_URLS: ${{ secrets.TARGET_URLS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run collector
+        id: run
+        run: node scripts/pipeline.js
+        continue-on-error: true
+      - name: Self-heal
+        if: steps.run.outcome == 'failure'
+        run: |
+          npx -p @brightdata/cli bdata scraper heal $SCRAPER_STUDIO_COLLECTOR_ID \
+            "Extraction came back empty or with missing fields after the site changed. Fix the extraction so all fields return values." \
+            --url $(echo $TARGET_URLS | jq -r '.[0]') --auto-approve
+      - name: Re-run after heal
+        if: steps.run.outcome == 'failure'
+        run: node scripts/pipeline.js
+      - name: Commit results
+        run: |
+          git config user.name "scraper-bot"
+          git config user.email "bot@example.com"
+          git add data/latest.json
+          git commit -m "chore: nightly scrape $(date -u +%F)" || echo "no changes"
+          git push || echo "nothing to push"
