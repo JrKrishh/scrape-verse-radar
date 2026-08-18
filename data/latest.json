@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "job_title": "LBO",
-      "organization_name": "Bank of Baroda",
-      "number_of_vacancies": "2482",
+      "job_title": "TRE 4.0 Notification",
+      "organization_name": "BPSC",
+      "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/bank-of-baroda-lbo-recruitment-2026-apply-online-for-2482-local-bank-officer-posts-3063349"
+      "article_link": "https://www.freejobalert.com/articles/bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
       "job_title": "LPSC Various Posts",
@@ -13,6 +13,13 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/isro-lpsc-recruitment-2026-apply-online-for-19-technical-assistant-technician-and-more-posts-3063219"
+    },
+    {
+      "job_title": "LBO",
+      "organization_name": "Bank of Baroda",
+      "number_of_vacancies": "2482",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bank-of-baroda-lbo-recruitment-2026-apply-online-for-2482-local-bank-officer-posts-3063349"
     },
     {
       "job_title": "Bank SO",
@@ -97,13 +104,6 @@
       "number_of_vacancies": "147",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/ngel-recruitment-2026-apply-online-for-147-engineer-executive-posts-3062328"
-    },
-    {
-      "job_title": "Centre (South) Bangalore Civilian",
-      "organization_name": "ASC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/asc-centre-south-bangalore-civilian-recruitment-2026-apply-offline-for-62-fireman-tradesman-and-more-posts-3062322"
     },
     {
       "job_title": "MSPSTET",
@@ -405,6 +405,20 @@
       "article_link": "https://www.freejobalert.com/articles/rssb-lab-assistant-result-2026-3063168"
     },
     {
+      "job_title": "Lab Assistant & Forester Final Answer Key",
+      "organization_name": "RSSB",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rssb-lab-assistant-and-forester-final-answer-key-2026-3063448"
+    },
+    {
+      "job_title": "CGLRE Final Answer Key",
+      "organization_name": "OSSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ossc-cglre-final-answer-key-2026-3063425"
+    },
+    {
       "job_title": "Assistant Professor Answer Key",
       "organization_name": "MPSC",
       "number_of_vacancies": "Not specified",
@@ -484,16 +498,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/dsssb-various-posts-answer-key-2026-3062333"
-    },
-    {
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/afcat-2-answer-key-2026-3062312"
-    },
-    {
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rpsc-assistant-professor-final-answer-key-2026-out-3062214"
     },
     {
       "job_title": "of Baroda LBO Syllabus",
@@ -599,7 +603,38 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/kea-assistant-horticulture-officer-syllabus-3061818"
+    },
+    {
+      "job_title": "Centre (South) Bangalore Civilian",
+      "organization_name": "ASC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/asc-centre-south-bangalore-civilian-recruitment-2026-apply-offline-for-62-fireman-tradesman-and-more-posts-3062322"
+    },
+    {
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/afcat-2-answer-key-2026-3062312"
+    },
+    {
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rpsc-assistant-professor-final-answer-key-2026-out-3062214"
+    },
+    {
+      "job_title": "Bilaspur Senior Resident",
+      "organization_name": "AIIMS",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/aiims-bilaspur-senior-resident-recruitment-2026-walk-in-for-69-posts-3063456"
+    },
+    {
+      "job_title": "Teacher Geography Final Result",
+      "organization_name": "HPRCA",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/hprca-teacher-geography-final-result-2026-3063457"
     }
   ],
-  "updated_at": "2026-08-18T10:12:38.456Z"
+  "updated_at": "2026-08-18T11:36:36.623Z"
 }
