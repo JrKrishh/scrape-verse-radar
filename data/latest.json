@@ -1,18 +1,32 @@
 {
   "items": [
     {
-      "job_title": "Various Posts Offline form",
-      "organization_name": "India Optel",
-      "number_of_vacancies": "160",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/india-optel-recruitment-2026-apply-offline-for-160-project-technician-junior-project-engineer-and-more-posts-3067477"
-    },
-    {
       "job_title": "IPRC Fireman, Technician & More",
       "organization_name": "ISRO",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/isro-iprc-recruitment-2026-apply-online-for-22-technical-assistant-technician-and-skilled-posts-3067463"
+    },
+    {
+      "job_title": "Assistant, MTS and More Posts",
+      "organization_name": "CPRI",
+      "number_of_vacancies": "110",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/cpri-recruitment-2026-apply-online-for-110-assistant-mts-and-more-posts-3067640"
+    },
+    {
+      "job_title": "Paramedical",
+      "organization_name": "RRB",
+      "number_of_vacancies": "590",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rrb-paramedical-recruitment-2026-apply-online-for-560-posts-3066740"
+    },
+    {
+      "job_title": "Various Posts Offline form",
+      "organization_name": "India Optel",
+      "number_of_vacancies": "160",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/india-optel-recruitment-2026-apply-offline-for-160-project-technician-junior-project-engineer-and-more-posts-3067477"
     },
     {
       "job_title": "Executive Trainee",
@@ -92,18 +106,95 @@
       "article_link": "https://www.freejobalert.com/articles/bcpl-non-executive-recruitment-2026-apply-online-for-24-foreman-technician-and-more-posts-3066999"
     },
     {
-      "job_title": "Paramedical",
-      "organization_name": "RRB",
-      "number_of_vacancies": "560",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrb-paramedical-recruitment-2026-apply-online-for-560-posts-3066740"
-    },
-    {
-      "job_title": "Special Public Prosecutor",
-      "organization_name": "CBI",
+      "job_title": "Non Teaching",
+      "organization_name": "GADVASU",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/cbi-special-public-prosecutor-recruitment-2026-3066923"
+      "article_link": "https://www.freejobalert.com/articles/gadvasu-non-teaching-recruitment-2026-apply-online-for-45-storekeeper-clerk-steno-typist-posts-3067679"
+    },
+    {
+      "job_title": "Staff Nurse",
+      "organization_name": "TN NHM",
+      "number_of_vacancies": "4724",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
+    },
+    {
+      "job_title": "Various Posts",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/appsc-recruitment-2026-apply-online-for-90-hostel-welfare-officer-assistant-social-welfare-officer-assistant-tribal-welfare-officer-posts-3067672"
+    },
+    {
+      "job_title": "Group I",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "163",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/appsc-group-i-recruitment-2026-apply-online-for-163-dsp-assistant-audit-officer-and-more-posts-3067671"
+    },
+    {
+      "job_title": "Horticulture Officer, AEE and Assistant Director Posts",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/appsc-recruitment-2026-apply-online-for-85-horticulture-officer-aee-and-assistant-director-posts-3067668"
+    },
+    {
+      "job_title": "Various Vacancies",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/appsc-recruitment-2026-apply-online-for-255-inspector-assistant-statistical-officer-and-more-posts-3067666"
+    },
+    {
+      "job_title": "Various Posts",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "299",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/appsc-recruitment-2026-apply-online-for-299-forest-range-officer-supervisor-and-more-posts-3067665"
+    },
+    {
+      "job_title": "High Court SPA & PA",
+      "organization_name": "Delhi",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/delhi-high-court-recruitment-2026-apply-online-for-150-senior-personal-assistant-and-personal-assistant-posts-3066385"
+    },
+    {
+      "job_title": "Assistant",
+      "organization_name": "MP High Court",
+      "number_of_vacancies": "1174",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/mp-high-court-assistant-recruitment-2026-apply-online-for-1174-posts-3063205"
+    },
+    {
+      "job_title": "Assistant Professor",
+      "organization_name": "KBCNMU",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/kbcnmu-assistant-professor-recruitment-2026-apply-online-for-138-posts-3067661"
+    },
+    {
+      "job_title": "Medical Officer",
+      "organization_name": "RUHS",
+      "number_of_vacancies": "600",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ruhs-medical-officer-recruitment-2026-apply-online-for-600-posts-3062973"
+    },
+    {
+      "job_title": "PA and Steno",
+      "organization_name": "UKSSSC",
+      "number_of_vacancies": "101",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/uksssc-pa-and-steno-recruitment-2026-apply-online-for-101-personal-assistant-and-stenographer-posts-3066867"
+    },
+    {
+      "job_title": "Veterinary Pharmacist",
+      "organization_name": "UPSSSC",
+      "number_of_vacancies": "1308",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/upsssc-veterinary-pharmacist-recruitment-2026-notification-out-apply-online-for-1308-posts-3063100"
     },
     {
       "job_title": "UGD Helper",
@@ -120,95 +211,23 @@
       "article_link": "https://www.freejobalert.com/articles/kea-kalyana-karnataka-recruitment-2026-apply-online-for-210-electrician-water-supply-operator-and-more-posts-3067512"
     },
     {
-      "job_title": "Home Guard",
-      "organization_name": "Jharkhand",
-      "number_of_vacancies": "772",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/jharkhand-home-guard-recruitment-2026-apply-online-for-772-home-guard-rural-and-urban-posts-3067607"
-    },
-    {
-      "job_title": "Medical Officer",
-      "organization_name": "NHM Assam",
-      "number_of_vacancies": "78",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nhm-assam-medical-officer-recruitment-2026-apply-online-for-78-posts-3067600"
-    },
-    {
-      "job_title": "Staff Nurse",
-      "organization_name": "TN NHM",
-      "number_of_vacancies": "4724",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
-    },
-    {
-      "job_title": "Police Constable",
-      "organization_name": "Ladakh",
+      "job_title": "Punjab Lecturer Admit Card",
+      "organization_name": "ERD",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ladakh-police-constable-recruitment-2026-apply-online-for-331-posts-3067554"
+      "article_link": "https://www.freejobalert.com/articles/erd-punjab-lecturer-admit-card-2026-3067675"
     },
     {
-      "job_title": "Teacher",
-      "organization_name": "Karnataka",
-      "number_of_vacancies": "15000",
+      "job_title": "Admit Card",
+      "organization_name": "SSC Selection Phase",
+      "number_of_vacancies": "14",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/karnataka-teacher-recruitment-2026-apply-online-for-15000-posts-3062634"
+      "article_link": "https://www.freejobalert.com/articles/ssc-selection-phase-14-admit-card-2026-3067670"
     },
     {
-      "job_title": "Naib Tehsildar",
-      "organization_name": "MPESB",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mpesb-naib-tehsildar-recruitment-2026-apply-online-for-73-posts-3067527"
-    },
-    {
-      "job_title": "SSC DEO, Junior Assistant and More Posts",
-      "organization_name": "Goa",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/goa-ssc-recruitment-2026-apply-online-for-215-deo-junior-assistant-and-more-posts-3066404"
-    },
-    {
-      "job_title": "Sports Quota",
-      "organization_name": "BLW",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/blw-sports-quota-recruitment-2026-apply-online-for-25-posts-3067470"
-    },
-    {
-      "job_title": "Punjab JE",
-      "organization_name": "SSSB",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/sssb-punjab-je-recruitment-2026-apply-online-for-junior-engineer-posts-3041364"
-    },
-    {
-      "job_title": "Apprentice",
-      "organization_name": "OPTCL",
-      "number_of_vacancies": "100",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/optcl-apprentice-recruitment-2026-apply-online-for-100-diploma-graduate-iti-apprentice-posts-3067414"
-    },
-    {
-      "job_title": "Junior Engineering Assistant",
-      "organization_name": "CPCL",
-      "number_of_vacancies": "60",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/cpcl-junior-engineering-assistant-recruitment-2026-apply-online-for-60-posts-3063135"
-    },
-    {
-      "job_title": "Agartala Non Teaching",
-      "organization_name": "NIT",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nit-agartala-non-teaching-recruitment-2026-apply-online-for-51-technician-lab-attendant-and-more-posts-3067360"
-    },
-    {
-      "job_title": "Senior Instructor",
-      "organization_name": "UPSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upsssc-senior-instructor-recruitment-2026-apply-online-for-132-posts-3067345"
+      "article_link": "https://www.freejobalert.com/articles/upessc-principal-admit-card-2026-3067655"
     },
     {
       "job_title": "High Court Assistant Admit Card",
@@ -295,25 +314,18 @@
       "article_link": "https://www.freejobalert.com/articles/cgpsc-adpo-admit-card-2026-3067128"
     },
     {
-      "job_title": "Home Guard PET Admit Card",
-      "organization_name": "UP",
+      "job_title": "Lekhpal Mains Result",
+      "organization_name": "UPSSSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/up-home-guard-pet-admit-card-2026-3067110"
+      "article_link": "https://www.freejobalert.com/articles/upsssc-lekhpal-mains-result-2026-3067652"
     },
     {
-      "job_title": "ASI and HC Practical Admit Card",
-      "organization_name": "MPESB",
+      "job_title": "Vidhan Parishad LDC / DEO Final Result",
+      "organization_name": "Bihar",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mpesb-asi-and-hc-practical-admit-card-2026-3067080"
-    },
-    {
-      "job_title": "Clerk Admit Card",
-      "organization_name": "SBI",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/sbi-clerk-admit-card-2026-out-3067025"
+      "article_link": "https://www.freejobalert.com/articles/bihar-vidhan-parishad-ldc-and-deo-final-result-2026-3067626"
     },
     {
       "number_of_vacancies": "Not specified",
@@ -401,20 +413,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/hpsc-ayurvedic-medical-officer-result-2026-3067298"
-    },
-    {
-      "job_title": "Departmental Test Result",
-      "organization_name": "APPSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/appsc-departmental-test-result-2026-3067290"
-    },
-    {
-      "job_title": "English Teacher Final Result",
-      "organization_name": "HPRCA",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hprca-english-teacher-final-result-2026-3067242"
     },
     {
       "job_title": "Answer Key",
@@ -623,5 +621,5 @@
       "article_link": "https://www.freejobalert.com/articles/upsc-epfo-apfc-syllabus-and-exam-pattern-3064235"
     }
   ],
-  "updated_at": "2026-09-14T09:09:31.740Z"
+  "updated_at": "2026-09-15T08:51:36.853Z"
 }
