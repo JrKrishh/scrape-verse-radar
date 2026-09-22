@@ -53,8 +53,14 @@ npx -p @brightdata/cli bdata scraper create https://www.freejobalert.com/tn-gove
 3. Configure the environment:
 
 ```sh
-cp .env.example .env   # fill in BRIGHT_DATA_API_TOKEN
+cp .env.example .env   # fill in BRIGHT_DATA_API_TOKEN (local only; .env is gitignored)
+cp worker/.dev.vars.example worker/.dev.vars   # same values for wrangler dev
 ```
+
+**Secrets:** Never commit API tokens. Keep them in `.env` (local), `worker/.dev.vars`
+(gitignored), Cloud Agent environment secrets, GitHub Actions secrets, or
+`wrangler secret put` for production — not in source files, logs, or PRs. If a
+token is ever exposed, rotate it in Bright Data Account Settings immediately.
 
 ## Running
 

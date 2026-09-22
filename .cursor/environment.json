@@ -5,7 +5,7 @@
   "terminals": [
     {
       "name": "dashboard",
-      "command": "cd worker && npx wrangler dev --local --port 8787 --ip 0.0.0.0 --var SCRAPER_STUDIO_COLLECTOR_ID:${SCRAPER_STUDIO_COLLECTOR_ID:-c_msygw29h15ak5olz7j} --var BRIGHT_DATA_API_TOKEN:${BRIGHT_DATA_API_TOKEN:-local-dev-placeholder}"
+      "command": "cd worker && npx wrangler dev --local --port 8787 --ip 0.0.0.0"
     }
   ],
   "ports": [
