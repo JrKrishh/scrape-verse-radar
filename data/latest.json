@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "job_title": "Executive",
+      "organization_name": "BEML",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/beml-executive-recruitment-2026-apply-online-for-13-assistant-manager-engineer-and-more-posts-3069400"
+    },
+    {
+      "job_title": "Executive Trainee",
+      "organization_name": "MECL",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/mecl-executive-trainee-recruitment-2026-3061230"
+    },
+    {
+      "job_title": "Various Posts",
+      "organization_name": "PMBI",
+      "number_of_vacancies": "178",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/pmbi-recruitment-2026-apply-offline-for-178-pharmacist-executive-and-more-posts-3066206"
+    },
+    {
+      "job_title": "SO",
+      "organization_name": "Bank of Baroda",
+      "number_of_vacancies": "1100",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bank-of-baroda-so-recruitment-2026-apply-online-for-1100-wealth-executive-credit-analyst-posts-3066180"
+    },
+    {
+      "job_title": "Non Executive",
+      "organization_name": "BCPL",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bcpl-non-executive-recruitment-2026-apply-online-for-24-foreman-technician-and-more-posts-3066999"
+    },
+    {
       "job_title": "Coast Guard Recruitment",
       "organization_name": "Indian",
       "number_of_vacancies": "Not specified",
@@ -71,37 +106,95 @@
       "article_link": "https://www.freejobalert.com/articles/nabfins-customer-service-officer-recruitment-2026-3068690"
     },
     {
-      "job_title": "Navy Sports Quota",
-      "organization_name": "Indian",
+      "job_title": "Delhi Senior Resident Doctors",
+      "organization_name": "GTBH",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/indian-navy-sports-quota-recruitment-2026-3068640"
+      "article_link": "https://www.freejobalert.com/articles/gtbh-delhi-senior-resident-doctors-recruitment-2026-apply-online-for-89-posts-3069441"
     },
     {
-      "job_title": "Technical & Tradesman Rally",
-      "organization_name": "Assam Rifles",
-      "number_of_vacancies": "354",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
-    },
-    {
-      "job_title": "Assistant Officer",
-      "organization_name": "NTPC",
+      "job_title": "Non-Teaching",
+      "organization_name": "BKNMU",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ntpc-assistant-officer-recruitment-2026-apply-online-for-15-posts-3068557"
+      "article_link": "https://www.freejobalert.com/articles/bknmu-non-teaching-recruitment-2026-apply-online-for-11-junior-clerk-assistant-engineer-and-more-posts-3069394"
     },
     {
-      "job_title": "Head Constable",
-      "organization_name": "ITBP",
+      "job_title": "Senior Assistant Engineer",
+      "organization_name": "BEL",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/itbp-head-constable-motor-mechanic-recruitment-2026-apply-online-for-21-posts-3068550"
+      "article_link": "https://www.freejobalert.com/articles/bel-senior-assistant-engineer-recruitment-2026-apply-offline-for-36-posts-3069387"
     },
     {
+      "job_title": "Teaching and Non Teaching",
+      "organization_name": "CBIT",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrb-ntpc-graduate-recruitment-062026-notification-apply-online-for-3-477-posts-3068511"
+      "article_link": "https://www.freejobalert.com/articles/cbit-teaching-and-non-teaching-recruitment-2026-3069380"
+    },
+    {
+      "job_title": "Safai Karmachari",
+      "organization_name": "Rajasthan",
+      "number_of_vacancies": "24752",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rajasthan-safai-karmachari-recruitment-2026-apply-online-for-24752-posts-3060551"
+    },
+    {
+      "job_title": "School Kunjpura Teaching and Non Teaching",
+      "organization_name": "Sainik",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/sainik-school-kunjpura-teaching-and-non-teaching-recruitment-2026-apply-offline-for-15-posts-3069366"
+    },
+    {
+      "job_title": "ADO",
+      "organization_name": "HPPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/hppsc-ado-recruitment-2026-apply-online-for-23-agriculture-development-officer-posts-3069362"
+    },
+    {
+      "job_title": "(BHU) Varanasi Non-Faculty",
+      "organization_name": "IIT",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/iit-bhu-varanasi-non-faculty-recruitment-2026-apply-online-for-55-junior-engineer-junior-technician-and-more-posts-3064699"
+    },
+    {
+      "job_title": "BTSC Fisheries Extension Officer",
+      "organization_name": "Bihar",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bihar-btsc-fisheries-extension-officer-recruitment-2026-apply-online-for-231-matsya-prasar-padadhikari-posts-3069340"
+    },
+    {
+      "job_title": "Touring Veterinary Officer",
+      "organization_name": "BTSC",
+      "number_of_vacancies": "787",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bihar-btsc-touring-veterinary-officer-recruitment-2026-apply-online-for-787-posts-3069335"
+    },
+    {
+      "job_title": "College Non Teaching",
+      "organization_name": "Maitreyi",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/maitreyi-college-non-teaching-recruitment-2026-apply-online-for-52-lab-assistant-junior-assistant-and-more-posts-3068939"
+    },
+    {
+      "job_title": "Apprentice",
+      "organization_name": "MPPGCL",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/mppgcl-apprentice-recruitment-2026-apply-offline-for-27-graduate-and-technician-apprentice-posts-3069291"
+    },
+    {
+      "job_title": "Scaler",
+      "organization_name": "UKSSSC",
+      "number_of_vacancies": "200",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/uksssc-group-c-recruitment-2026-apply-online-for-200-scaler-posts-3067786"
     },
     {
       "job_title": "PXE Apprentice",
@@ -118,95 +211,23 @@
       "article_link": "https://www.freejobalert.com/articles/manipur-psc-dental-surgeon-recruitment-2026-apply-online-for-13-posts-3069209"
     },
     {
-      "job_title": "Teaching Posts",
-      "organization_name": "IGNOU",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ignou-teaching-recruitment-2026-apply-online-42-professor-associate-assistant-professor-posts-3068316"
+      "article_link": "https://www.freejobalert.com/articles/up-police-pet-admit-card-2026-3069399"
     },
     {
-      "job_title": "and Class 2",
-      "organization_name": "GPSC Class",
-      "number_of_vacancies": "1",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/gpsc-class-1-and-class-2-recruitment-2026-apply-online-for-26-marine-engineer-manager-and-more-posts-3069162"
-    },
-    {
-      "job_title": "Anganwadi Teacher",
-      "organization_name": "Hanumakonda",
+      "job_title": "and Haryana High Court Safai Sewak and Mali Admit Card",
+      "organization_name": "Punjab",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hanumakonda-anganwadi-teacher-recruitment-2026-apply-online-for-55-posts-3069100"
+      "article_link": "https://www.freejobalert.com/articles/punjab-and-haryana-high-courtsafai-sewak-and-mali-admit-card-2026-3069354"
     },
     {
-      "job_title": "Manager",
-      "organization_name": "TGPSC",
-      "number_of_vacancies": "130",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/tgpsc-manager-recruitment-2026-apply-online-for-130-posts-3068341"
-    },
-    {
-      "job_title": "Bank Various Posts",
-      "organization_name": "Abhyudaya",
+      "job_title": "JOA IT Admit Card",
+      "organization_name": "HPRCA",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/abhyudaya-bank-recruitment-2026-apply-online-for-manager-credit-officer-and-more-posts-3069058"
-    },
-    {
-      "job_title": "Principals and Teachers",
-      "organization_name": "OAVS",
-      "number_of_vacancies": "815",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/oavs-teacher-recruitment-2026-apply-online-for-815-principals-and-teachers-posts-3069031"
-    },
-    {
-      "job_title": "NML various Posts",
-      "organization_name": "CSIR",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/csir-nml-recruitment-2026-walk-in-for-48-project-assistant-project-associate-and-more-posts-3069011"
-    },
-    {
-      "job_title": "Sports Quota",
-      "organization_name": "RRC Southern Railway",
-      "number_of_vacancies": "67",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrc-southern-railway-sports-quota-recruitment-2026-apply-online-for-67-posts-3068978"
-    },
-    {
-      "job_title": "DEO",
-      "organization_name": "Madras High Court",
-      "number_of_vacancies": "115",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/madras-high-court-deo-recruitment-2026-apply-online-for-115-data-entry-operator-posts-3068961"
-    },
-    {
-      "job_title": "College Non Teaching",
-      "organization_name": "Maitreyi",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/maitreyi-college-non-teaching-recruitment-2026-apply-online-for-52-lab-assistant-junior-assistant-and-more-posts-3068939"
-    },
-    {
-      "job_title": "Apprentice",
-      "organization_name": "CPCL",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/cpcl-apprentice-recruitment-2026-apply-online-for-trade-technician-and-graduate-apprentice-posts-3068928"
-    },
-    {
-      "job_title": "Medical College & Hospital Narayanpet Various Posts",
-      "organization_name": "Govt",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/govt-medical-college-hospital-narayanpet-recruitment-2026-apply-offline-for-149-deo-record-clerk-record-assistant-and-more-posts-3068887"
-    },
-    {
-      "job_title": "Aadhaar Supervisor/Operator",
-      "organization_name": "CSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/csc-aadhaar-supervisor-operator-recruitment-2026-3068832"
+      "article_link": "https://www.freejobalert.com/articles/hprca-joa-it-admit-card-2026-3069277"
     },
     {
       "job_title": "Assistant Professor Admit Card",
@@ -285,21 +306,18 @@
       "article_link": "https://www.freejobalert.com/articles/osstet-admit-card-2026-3068211"
     },
     {
+      "job_title": "Assistant Mains Result",
+      "organization_name": "RBI",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/isro-istrac-various-post-admit-card-2026-3068802"
+      "article_link": "https://www.freejobalert.com/articles/rbi-assistant-mains-result-2026-3069378"
     },
     {
+      "job_title": "NR PET Result",
+      "organization_name": "RRC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/beml-non-executive-admit-card-2026-out-3068796"
-    },
-    {
-      "job_title": "Staff Nurse Admit Card",
-      "organization_name": "NFC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nfc-staff-nurse-admit-card-2026-3068771"
+      "article_link": "https://www.freejobalert.com/articles/rrc-nr-pet-result-2026-3069339"
     },
     {
       "job_title": "Various Posts Result",
@@ -393,14 +411,32 @@
       "article_link": "https://www.freejobalert.com/articles/rpsc-assistant-professor-result-2026-out-check-history-and-geography-list-3069124"
     },
     {
+      "job_title": "Assistant Director Provisional Answer Key",
+      "organization_name": "GPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hpsc-ada-mains-result-2026-3068950"
+      "article_link": "https://www.freejobalert.com/articles/gpsc-assistant-director-provisional-answer-key-2026-3069352"
     },
     {
+      "job_title": "Assistant Professor Final Answer Key",
+      "organization_name": "MPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/emrs-teaching-and-non-teaching-tier-ii-result-2026-3066170"
+      "article_link": "https://www.freejobalert.com/articles/maharashtra-psc-assistant-professor-final-answer-key-2026-3069351"
+    },
+    {
+      "job_title": "Biochemist Answer Key",
+      "organization_name": "RPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rpsc-biochemist-answer-key-2026-3069348"
+    },
+    {
+      "job_title": "High Court Assistant Answer Key",
+      "organization_name": "Patna",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/patna-high-court-assistant-answer-key-2026-3069345"
     },
     {
       "job_title": "Junior Engineer Answer Key",
@@ -467,34 +503,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/upsssc-excise-constable-answer-key-2026-3068948"
-    },
-    {
-      "job_title": "Pharmacist Ayurvedic Answer Key",
-      "organization_name": "UPSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upsssc-pharmacist-ayurvedic-answer-key-2026-3068943"
-    },
-    {
-      "job_title": "Personal Assistant Provisional Answer Key",
-      "organization_name": "TPSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/tpsc-personal-assistant-provisional-answer-key-2026-3068808"
-    },
-    {
-      "job_title": "KSRP Police Constable Answer Key",
-      "organization_name": "KEA",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/kea-ksrp-police-constable-answer-key-2026-3068762"
-    },
-    {
-      "job_title": "JHT Answer Key",
-      "organization_name": "SSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ssc-jht-answer-key-2026-3068704"
     },
     {
       "job_title": "FSL Syllabus",
@@ -600,31 +608,19 @@
       "article_link": "https://www.freejobalert.com/articles/appsc-horticulture-officer-syllabus-and-exam-pattern-3066922"
     },
     {
-      "job_title": "Non Executive",
-      "organization_name": "BCPL",
+      "job_title": "Constable Final Result",
+      "organization_name": "WBP",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/bcpl-non-executive-recruitment-2026-apply-online-for-24-foreman-technician-and-more-posts-3066999"
+      "article_link": "https://www.freejobalert.com/articles/wbp-constable-final-result-2026-3069448"
     },
     {
-      "job_title": "JOA IT Admit Card",
-      "organization_name": "HPRCA",
+      "job_title": "Teaching Posts",
+      "organization_name": "IGNOU",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hprca-joa-it-admit-card-2026-3069277"
-    },
-    {
-      "job_title": "Assistant Boring Technician and Other Post Admit Card",
-      "organization_name": "UKSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/uksssc-assistant-boring-technician-and-other-post-admit-card-2026-3068743"
-    },
-    {
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hppsc-assistant-professor-provisional-answer-key-2026-out-3068691"
+      "article_link": "https://www.freejobalert.com/articles/ignou-teaching-recruitment-2026-apply-online-42-professor-associate-assistant-professor-posts-3068316"
     }
   ],
-  "updated_at": "2026-09-24T08:38:36.371Z"
+  "updated_at": "2026-09-25T09:03:12.719Z"
 }
