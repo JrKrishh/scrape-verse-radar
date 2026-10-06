@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "job_title": "IPRC Fireman, Technician & More",
+      "organization_name": "ISRO",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/isro-iprc-recruitment-2026-apply-online-for-22-technical-assistant-technician-and-skilled-posts-3067463"
+    },
+    {
+      "job_title": "CSE",
+      "organization_name": "NABFINS",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/nabfins-cse-recruitment-2026-apply-online-for-customer-service-executive-posts-3070984"
+    },
+    {
+      "job_title": "Various Posts",
+      "organization_name": "CDAC",
+      "number_of_vacancies": "844",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/c-dac-recruitment-2026-apply-online-for-project-engineer-project-manager-and-more-posts-3070943"
+    },
+    {
       "job_title": "SO",
       "organization_name": "Bank of Baroda",
       "number_of_vacancies": "1100",
@@ -85,30 +106,18 @@
       "article_link": "https://www.freejobalert.com/articles/indian-army-tgc-145-recruitment-2026-3068772"
     },
     {
-      "job_title": "CHSL",
-      "organization_name": "SSC",
-      "number_of_vacancies": "2536",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ssc-chsl-recruitment-2026-apply-online-for-2536-posts-3066658"
-    },
-    {
+      "job_title": "Jodhpur Non Faculty",
+      "organization_name": "IIT",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrb-ntpc-graduate-recruitment-062026-notification-apply-online-for-3-477-posts-3068511"
+      "article_link": "https://www.freejobalert.com/articles/iit-jodhpur-non-faculty-recruitment-2026-apply-online-for-20-counselor-senior-assistant-and-more-posts-3071100"
     },
     {
-      "job_title": "Apprentice",
-      "organization_name": "Canara Bank",
-      "number_of_vacancies": "3500",
+      "job_title": "Group-I Services Posts",
+      "organization_name": "APPSC",
+      "number_of_vacancies": "166",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/canara-bank-apprentice-recruitment-2026-apply-online-for-3500-posts-3069739"
-    },
-    {
-      "job_title": "Kotwal",
-      "organization_name": "Nashik",
-      "number_of_vacancies": "156",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nashik-kotwal-mahsul-sevak-recruitment-2026-apply-online-for-156-posts-3070925"
+      "article_link": "https://www.freejobalert.com/articles/appsc-group-i-recruitment-2026-apply-online-for-166-assistant-audit-officer-dsp-and-more-posts-3071065"
     },
     {
       "job_title": "Laboratory Assistant-Cum-Storekeeper",
@@ -116,6 +125,13 @@
       "number_of_vacancies": "435",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/odisha-ssb-laboratory-assistant-cum-storekeeper-recruitment-2026-apply-online-for-435-posts-3070923"
+    },
+    {
+      "job_title": "Kotwal",
+      "organization_name": "Nashik",
+      "number_of_vacancies": "156",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/nashik-kotwal-mahsul-sevak-recruitment-2026-apply-online-for-156-posts-3070925"
     },
     {
       "job_title": "Agra Guest Faculty",
@@ -193,18 +209,18 @@
       "article_link": "https://www.freejobalert.com/articles/mpesb-group-3-sub-engineer-recruitment-2026-apply-online-for-1700-posts-3065085"
     },
     {
-      "job_title": "Various Posts",
-      "organization_name": "Bengaluru Rural District Court",
-      "number_of_vacancies": "86",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/bengaluru-rural-district-court-recruitment-2026-apply-online-for-86-typist-peon-and-more-posts-3070702"
-    },
-    {
-      "job_title": "PSC Various Posts",
-      "organization_name": "Kerala",
+      "job_title": "Assistant Agriculture Officer and More Post Admit Card",
+      "organization_name": "UKSSSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/kerala-psc-recruitment-2026-notification-out-apply-online-for-74-peon-watchman-draftsman-and-more-posts-3070689"
+      "article_link": "https://www.freejobalert.com/articles/uksssc-assistant-agriculture-officer-and-more-post-admit-card-2026-3071103"
+    },
+    {
+      "job_title": "High Court MTS and Driver Admit Card",
+      "organization_name": "Gauhati",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/gauhati-high-court-mts-and-driver-admit-card-2026-3070939"
     },
     {
       "job_title": "High Court HJS Mains Admit Card",
@@ -294,18 +310,67 @@
       "article_link": "https://www.freejobalert.com/articles/cgpsc-assistant-librarian-admit-card-2026-out-3070275"
     },
     {
-      "job_title": "TET JTET Admit Card",
-      "organization_name": "Jharkhand",
+      "job_title": "Assistant Superintendent Result",
+      "organization_name": "DSSSB",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/jharkhand-tet-jtet-admit-card-2026-3070239"
+      "article_link": "https://www.freejobalert.com/articles/dsssb-assistant-superintendent-result-2026-3071094"
     },
     {
-      "job_title": "Police Constable PET Admit Card",
-      "organization_name": "UP",
+      "job_title": "MTS Final Result",
+      "organization_name": "IB",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/up-police-constable-pet-admit-card-2026-3070210"
+      "article_link": "https://www.freejobalert.com/articles/ib-mts-final-result-2026-3071049"
+    },
+    {
+      "job_title": "Administrative and Support Service Merit List",
+      "organization_name": "NIMS",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/nims-administrative-and-support-service-merit-list-2026-3071045"
+    },
+    {
+      "job_title": "Ministerial & Isolated Category Result",
+      "organization_name": "RRB",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rrb-ministerial-and-isolated-category-result-2026-3071038"
+    },
+    {
+      "job_title": "Veterinary Officer Merit List",
+      "organization_name": "RPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rpsc-veterinary-officer-merit-list-2026-3071005"
+    },
+    {
+      "job_title": "Factory Itarsi Diploma Project Engineer Result",
+      "organization_name": "Ordnance",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ordnance-factory-itarsi-diploma-project-engineer-result-2026-3070985"
+    },
+    {
+      "job_title": "Vidyut AEE Result",
+      "organization_name": "AP",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ap-vidyut-aee-result-2026-3068929"
+    },
+    {
+      "job_title": "ADO Result",
+      "organization_name": "HPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/hpsc-ado-result-2026-3070973"
+    },
+    {
+      "job_title": "Deputy Jailor Result",
+      "organization_name": "RPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rpsc-deputy-jailor-result-2026-3070953"
     },
     {
       "job_title": "Forest Guard Result",
@@ -348,67 +413,46 @@
       "article_link": "https://www.freejobalert.com/articles/ksrp-police-constable-result-2026-out-3069612"
     },
     {
-      "job_title": "CPGLRE Result",
+      "job_title": "CRE Final Answer Key",
       "organization_name": "OSSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ossc-cpglre-result-2026-3070822"
+      "article_link": "https://www.freejobalert.com/articles/ossc-cre-final-answer-key-2026-3071070"
     },
     {
-      "job_title": "ALP CBT-II Result",
-      "organization_name": "RRB",
+      "job_title": "CCE Answer Key",
+      "organization_name": "GSSSB",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrb-alp-cbt-ii-result-2026-3070722"
+      "article_link": "https://www.freejobalert.com/articles/gsssb-cce-answer-key-2026-3070996"
     },
     {
-      "job_title": "Kharagpur PET Result",
-      "organization_name": "RRC",
+      "job_title": "SET Answer Key",
+      "organization_name": "Rajasthan",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrc-kharagpur-pet-result-2026-3070748"
+      "article_link": "https://www.freejobalert.com/articles/rajasthan-set-answer-key-2026-3071058"
     },
     {
-      "job_title": "APO Result",
+      "job_title": "Deputy Jailor Final Answer Key",
       "organization_name": "RPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rpsc-apo-result-2026-3070746"
+      "article_link": "https://www.freejobalert.com/articles/rpsc-deputy-jailor-final-answer-key-2026-3071042"
     },
     {
-      "job_title": "Junior Engineer Supplementary Result",
-      "organization_name": "PSSSB",
+      "job_title": "TET Answer Key",
+      "organization_name": "Uttarakhand",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/psssb-junior-engineer-supplementary-result-2026-3070698"
+      "article_link": "https://www.freejobalert.com/articles/uttarakhand-tet-answer-key-2026-3071013"
     },
     {
-      "job_title": "Veterinary Officer Result",
-      "organization_name": "RPSC",
+      "job_title": "Mizoram Driver (PE) Answer Key",
+      "organization_name": "SCERT",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rpsc-veterinary-officer-result-2026-3070654"
-    },
-    {
-      "job_title": "Delhi High Court Attendant Result",
-      "organization_name": "DSSSB",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/dsssb-delhi-high-court-attendant-result-2026-3070638"
-    },
-    {
-      "job_title": "Enforcement Constable Final Result",
-      "organization_name": "UPSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upsssc-enforcement-constable-final-result-2026-3070625"
-    },
-    {
-      "job_title": "Havildar Instructor Eligibility Result",
-      "organization_name": "UPSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upsssc-havildar-instructor-eligibility-result-2026-3070604"
+      "article_link": "https://www.freejobalert.com/articles/scert-mizoram-driver-answer-key-2026-3070986"
     },
     {
       "job_title": "AHO Answer Key",
@@ -472,46 +516,11 @@
       "article_link": "https://www.freejobalert.com/articles/kerala-psc-electricity-worker-provisional-answer-key-2026-3070659"
     },
     {
-      "job_title": "PSC Welder Final Answer Key",
-      "organization_name": "Kerala",
+      "job_title": "AO Syllabus",
+      "organization_name": "NICL",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/kerala-psc-welder-final-answer-key-2026-3070657"
-    },
-    {
-      "job_title": "Lecturer Answer Key",
-      "organization_name": "Punjab",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/punjab-lecturer-answer-key-2026-3070627"
-    },
-    {
-      "job_title": "WBJS Answer Key",
-      "organization_name": "WBPSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/wbpsc-wbjs-answer-key-2026-3070566"
-    },
-    {
-      "job_title": "Assistant Professor Answer Key",
-      "organization_name": "HPPSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hppsc-assistant-professor-answer-key-2026-out-3070562"
-    },
-    {
-      "job_title": "Fire Department Provisional Answer Key",
-      "organization_name": "BMC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/bmc-fire-department-provisional-answer-key-2026-3070547"
-    },
-    {
-      "job_title": "State Forest Service Answer Key",
-      "organization_name": "MPPSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mppsc-state-forest-service-answer-key-2026-3070511"
+      "article_link": "https://www.freejobalert.com/articles/nicl-ao-syllabus-and-exam-pattern-3070964"
     },
     {
       "job_title": "Scientific Officier Syllabus",
@@ -610,96 +619,110 @@
       "article_link": "https://www.freejobalert.com/articles/mp-police-constable-syllabus-and-exam-pattern-3067101"
     },
     {
-      "job_title": "Assistant Professor Syllabus",
-      "organization_name": "UPESSC",
+      "job_title": "Navik, Yantrik",
+      "organization_name": "ICG CGEPT",
+      "number_of_vacancies": "365",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/icg-cgept-recruitment-2026-apply-online-for-365-posts-3071126"
+    },
+    {
+      "job_title": "CA/CMA Intern",
+      "organization_name": "NPCIL",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upessc-assistant-professor-syllabus-and-exam-pattern-3067033"
+      "article_link": "https://www.freejobalert.com/articles/npcil-ca-cma-intern-recruitment-2026-apply-online-for-51-posts-3071112"
     },
     {
-      "job_title": "900+ Various Posts",
-      "organization_name": "CDAC",
+      "job_title": "Various Posts",
+      "organization_name": "DMHO Medak Medak",
+      "number_of_vacancies": "64",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/dmho-medak-recruitment-2026-apply-offline-for-64-staff-nurse-anm-pharmacist-and-more-posts-3071140"
+    },
+    {
+      "job_title": "Stenographer, Assistant",
+      "organization_name": "MPHC",
+      "number_of_vacancies": "418",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/mphc-recruitment-2026-notification-out-apply-online-for-418-stenographer-grade-ii-iii-assistant-posts-3071137"
+    },
+    {
+      "job_title": "Clerkship",
+      "organization_name": "WBPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/c-dac-recruitment-2026-apply-online-for-project-engineer-project-manager-and-more-posts-3070943"
+      "article_link": "https://www.freejobalert.com/articles/wbpsc-clerkship-recruitment-2026-apply-online-for-lda-ldc-posts-3071118"
     },
     {
-      "job_title": "High Court MTS and Driver Admit Card",
-      "organization_name": "Gauhati",
+      "job_title": "Miscellaneous Answer Key",
+      "organization_name": "WBPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/gauhati-high-court-mts-and-driver-admit-card-2026-3070939"
+      "article_link": "https://www.freejobalert.com/articles/wbpsc-miscellaneous-answer-key-2026-3071184"
     },
     {
-      "job_title": "Technical & Tradesman Rally",
-      "organization_name": "Assam Rifles",
-      "number_of_vacancies": "354",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
-    },
-    {
-      "job_title": "Regional Youth Welfare Officer & Exercise Trainer",
-      "organization_name": "UPSSSC",
-      "number_of_vacancies": "412",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
-    },
-    {
-      "job_title": "ITI Trade Apprentices",
-      "organization_name": "ECIL",
-      "number_of_vacancies": "310",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ecil-iti-trade-apprentices-recruitment-2026-apply-online-for-310-posts-3070559"
-    },
-    {
-      "job_title": "High Court Junior Judicial Assistant/ Restorer Admit Card",
-      "organization_name": "Delhi",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/delhi-high-court-junior-judicial-assistant-restorer-admit-card-2026-3070143"
-    },
-    {
-      "job_title": "Land Surveyor Hall Ticket",
-      "organization_name": "KEA",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/kea-land-surveyor-hall-ticket-2026-3070057"
-    },
-    {
-      "job_title": "Various Posts Admit Card",
-      "organization_name": "UKSSSC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/uksssc-various-posts-admit-card-2026-3070051"
-    },
-    {
-      "job_title": "PSC Inspector and State Tax Officer Answer Key",
-      "organization_name": "Mizoram",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mizoram-psc-inspector-and-state-tax-officer-answer-key-2026-3070510"
-    },
-    {
-      "job_title": "Deputy Jailor Result",
+      "job_title": "APO Final Answer Key",
       "organization_name": "RPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rpsc-deputy-jailor-result-2026-3070953"
+      "article_link": "https://www.freejobalert.com/articles/rpsc-apo-final-answer-key-2026-3071122"
     },
     {
-      "job_title": "AO Syllabus",
-      "organization_name": "NICL",
+      "job_title": "Home Guard Answer Key",
+      "organization_name": "APSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nicl-ao-syllabus-and-exam-pattern-3070964"
+      "article_link": "https://www.freejobalert.com/articles/apsc-home-guard-answer-key-2026-3071108"
     },
     {
-      "job_title": "ADO Result",
-      "organization_name": "HPSC",
+      "job_title": "Clerk Syllabus",
+      "organization_name": "WBPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/hpsc-ado-result-2026-3070973"
+      "article_link": "https://www.freejobalert.com/articles/wbpsc-clerk-syllabus-and-exam-pattern-3071113"
+    },
+    {
+      "job_title": "CHSL",
+      "organization_name": "SSC",
+      "number_of_vacancies": "2536",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ssc-chsl-recruitment-2026-apply-online-for-2536-posts-3066658"
+    },
+    {
+      "job_title": "Various Posts",
+      "organization_name": "Bengaluru Rural District Court",
+      "number_of_vacancies": "86",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/bengaluru-rural-district-court-recruitment-2026-apply-online-for-86-typist-peon-and-more-posts-3070702"
+    },
+    {
+      "job_title": "TET JTET Admit Card",
+      "organization_name": "Jharkhand",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/jharkhand-tet-jtet-admit-card-2026-3070239"
+    },
+    {
+      "job_title": "CPGLRE Result",
+      "organization_name": "OSSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ossc-cpglre-result-2026-3070822"
+    },
+    {
+      "job_title": "PSC Treatment Organiser Final Answer Key",
+      "organization_name": "Kerala",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/kerala-psc-treatment-organiser-final-answer-key-2026-3071232"
+    },
+    {
+      "job_title": "VAO Answer Key",
+      "organization_name": "KEA",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/kea-vao-answer-key-2026-3071204"
     }
   ],
-  "updated_at": "2026-10-05T10:43:50.550Z"
+  "updated_at": "2026-10-06T10:37:05.118Z"
 }
