@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "job_title": "HFL Management Trainee",
+      "organization_name": "LIC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/lic-hfl-management-trainee-recruitment-2026-apply-online-for-50-posts-3072516"
+    },
+    {
+      "job_title": "Executive Trainee",
+      "organization_name": "MECL",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/mecl-executive-trainee-recruitment-2026-3061230"
+    },
+    {
+      "job_title": "Lifecare Various Posts",
+      "organization_name": "HLL",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/hll-recruitment-2026-apply-online-for-55-associate-manager-associate-manager-and-more-posts-3072460"
+    },
+    {
+      "job_title": "Individual Consultant",
+      "organization_name": "RITES",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rites-individual-consultant-recruitment-2026-apply-online-for-27-posts-3072456"
+    },
+    {
+      "job_title": "Dockyard Mumbai Apprentice",
+      "organization_name": "Naval",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/naval-dockyard-mumbai-apprentice-recruitment-2026-apply-online-for-283-posts-3069911"
+    },
+    {
       "job_title": "IPRC Fireman, Technician & More",
       "organization_name": "ISRO",
       "number_of_vacancies": "Not specified",
@@ -70,139 +105,122 @@
     },
     {
       "job_title": "Various Posts",
-      "organization_name": "CDAC",
-      "number_of_vacancies": "844",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/c-dac-recruitment-2026-apply-online-for-project-engineer-project-manager-and-more-posts-3070943"
-    },
-    {
-      "job_title": "Sports Quota",
-      "organization_name": "CRPF",
-      "number_of_vacancies": "521",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/crpf-sports-quota-recruitment-2026-apply-online-for-521-head-constable-constable-posts-3068927"
-    },
-    {
-      "job_title": "Technical & Tradesman Rally",
-      "organization_name": "Assam Rifles",
-      "number_of_vacancies": "354",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
-    },
-    {
-      "job_title": "Peon, PA and More Posts",
-      "organization_name": "DSSSB",
-      "number_of_vacancies": "641",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/dsssb-delhi-district-courts-recruitment-2026-notification-out-apply-online-for-641-posts-3070579"
-    },
-    {
-      "job_title": "Assistant Manager and Engineer Posts",
-      "organization_name": "BEML",
+      "organization_name": "APPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/beml-recruitment-2026-apply-online-for-20-assistant-manager-and-engineer-posts-3071528"
+      "article_link": "https://www.freejobalert.com/articles/appsc-recruitment-2026-apply-online-for-90-hostel-welfare-officer-assistant-social-welfare-officer-assistant-tribal-welfare-officer-posts-3067672"
     },
     {
-      "job_title": "Kakinada ASHA",
-      "organization_name": "DMHO",
+      "job_title": "AYUSH Society Bhiwani Various Posts",
+      "organization_name": "District",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/dmho-kakinada-asha-recruitment-2026-apply-offline-for-29-posts-3072233"
+      "article_link": "https://www.freejobalert.com/articles/district-ayush-society-bhiwani-recruitment-2026-apply-offline-for-25-attendant-yoga-instructor-and-more-posts-3072547"
     },
     {
+      "job_title": "Group-3 Sub Engineer",
+      "organization_name": "MPESB",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/drdo-itr-apprentice-recruitment-2026-apply-online-for-54-posts-3072148"
-    },
-    {
-      "job_title": "Assistant Professor",
-      "organization_name": "LTMGH",
-      "number_of_vacancies": "57",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ltmgh-assistant-professor-recruitment-2026-apply-offline-for-57-posts-3072098"
-    },
-    {
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/goa-psc-recruitment-2026-senior-technical-examiner-3072081"
-    },
-    {
-      "job_title": "Various Posts Walk-in",
-      "organization_name": "DHS Goa",
-      "number_of_vacancies": "58",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/dhs-goa-recruitment-2026-walk-in-for-58-surgeon-medical-officer-other-posts-3072041"
-    },
-    {
-      "job_title": "Senior Resident Walk-in",
-      "organization_name": "MCD",
-      "number_of_vacancies": "30",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mcd-senior-resident-recruitment-2026-walk-in-for-30-posts-3072010"
-    },
-    {
-      "job_title": "Hospital Korba Various Posts Recruitment",
-      "organization_name": "ESIC",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/esic-hospital-korba-recruitment-2026-apply-online-for-31-specialist-and-senior-resident-posts-3071995"
-    },
-    {
-      "job_title": "AWW, AWH Posts",
-      "organization_name": "Telangana Anganwadi",
-      "number_of_vacancies": "433",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/telangana-anganwadi-recruitment-2026-apply-online-for-433-anganwadi-helper-worker-posts-in-kumuram-bheem-asifabad-district-3071993"
+      "article_link": "https://www.freejobalert.com/articles/mpesb-group-3-sub-engineer-recruitment-2026-apply-online-for-1700-posts-3065085"
     },
     {
       "job_title": "Various Posts",
-      "organization_name": "CMHO Janjgir-Champa",
-      "number_of_vacancies": "117",
+      "organization_name": "TMC",
+      "number_of_vacancies": "72",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/cmho-janjgir-champa-recruitment-2026-apply-offline-for-117-nursing-officer-anm-other-posts-3071916"
+      "article_link": "https://www.freejobalert.com/articles/tmc-recruitment-2026-apply-online-for-72-udc-stenographer-technician-and-other-posts-3072543"
     },
     {
-      "job_title": "Anganwadi Helper",
-      "organization_name": "UP Anganwadi Moradabad",
-      "number_of_vacancies": "316",
+      "job_title": "SPO",
+      "organization_name": "Police Commissionerate Bhubaneswar Kataka",
+      "number_of_vacancies": "81",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/up-anganwadi-moradabad-anganwadi-helper-recruitment-2026-apply-online-for-316-posts-3071878"
+      "article_link": "https://www.freejobalert.com/articles/police-commissionerate-bhubaneswar-kataka-spo-recruitment-2026-apply-offline-for-81-posts-3072500"
+    },
+    {
+      "job_title": "Anganwadi (Vikarabad)",
+      "organization_name": "Telangana",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/telangana-anganwadi-vikarabad-recruitment-2026-apply-online-for-264-anganwadi-teacher-and-helper-posts-3072494"
+    },
+    {
+      "job_title": "University Various Posts",
+      "organization_name": "Utkal",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/utkal-university-recruitment-2026-apply-offline-for-28-field-investigator-research-assistant-and-more-posts-3072486"
+    },
+    {
+      "job_title": "AEE",
+      "organization_name": "OPSC",
+      "number_of_vacancies": "758",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
+    },
+    {
+      "job_title": "Driver, Conductor & More",
+      "organization_name": "KSRTC SWIFT",
+      "number_of_vacancies": "1040",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ksrtc-swift-recruitment-2026-apply-online-for-1040-driver-conductor-and-more-posts-3072476"
     },
     {
       "job_title": "Various Posts",
-      "organization_name": "AWEIL",
-      "number_of_vacancies": "Not specified",
+      "organization_name": "APSSB",
+      "number_of_vacancies": "217",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/aweil-recruitment-2026-apply-offline-for-40-mechanical-fitter-electrical-fitter-and-more-posts-3071803"
+      "article_link": "https://www.freejobalert.com/articles/apssb-recruitment-2026-apply-online-for-217-constable-driver-driver-pharmacist-and-more-posts-3072472"
     },
     {
-      "job_title": "Calicut Apprentices Posts",
-      "organization_name": "NIT",
+      "job_title": "OUAT Stenographer, Farm Manager and More",
+      "organization_name": "KVK",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/nit-calicut-apprentices-recruitment-2026-apply-online-for-30-graduate-and-technician-apprentice-posts-3071785"
+      "article_link": "https://www.freejobalert.com/articles/kvk-ouat-recruitment-2026-apply-offline-for-25-stenographer-farm-manager-and-more-posts-3072468"
     },
     {
-      "job_title": "Jogulamba Gadwal Various Posts",
-      "organization_name": "DMHO",
+      "job_title": "Various Posts",
+      "organization_name": "JKSSB",
+      "number_of_vacancies": "518",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/jkssb-recruitment-2026-apply-online-for-518-horticulture-technician-junior-staff-nurse-and-more-posts-3061465"
+    },
+    {
+      "job_title": "Apprentice Trainees Posts",
+      "organization_name": "IRCTC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/dmho-jogulamba-gadwal-recruitment-2026-apply-offline-for-49-pharmacist-staff-nurse-mpw-and-more-posts-3071715"
+      "article_link": "https://www.freejobalert.com/articles/irctc-apprentice-trainees-recruitment-2026-apply-online-for-44-graduate-apprentice-other-posts-3072462"
     },
     {
-      "job_title": "6,574 Group IV Services",
-      "organization_name": "TNPSC",
+      "job_title": "Trade Apprentice",
+      "organization_name": "Naval Dockyard Karwar",
+      "number_of_vacancies": "210",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/naval-dockyard-karwar-trade-apprentice-recruitment-2026-apply-online-for-210-posts-3072459"
+    },
+    {
+      "job_title": "Graduate Apprentice",
+      "organization_name": "Ordnance Factory Itarsi",
+      "number_of_vacancies": "50",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ordnance-factory-itarsi-graduate-apprentice-recruitment-2026-apply-offline-for-50-vacancies-3072444"
+    },
+    {
+      "job_title": "Police PEMT and DV Admit Card",
+      "organization_name": "Delhi",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/tnpsc-group-iv-recruitment-2026-apply-online-for-6-574-posts-3071375"
+      "article_link": "https://www.freejobalert.com/articles/delhi-police-pemt-and-dv-admit-card-2026-3072400"
     },
     {
-      "job_title": "Clerk",
-      "organization_name": "Punjab and Haryana High Court",
-      "number_of_vacancies": "1270",
+      "job_title": "Junior Laboratory Technician & Driver Admit Card",
+      "organization_name": "JKSSB",
+      "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/punjab-and-haryana-high-court-clerk-recruitment-2026-apply-online-for-1270-posts-3070846"
+      "article_link": "https://www.freejobalert.com/articles/jkssb-junior-laboratory-technician-and-driver-admit-card-2026-3072393"
     },
     {
       "number_of_vacancies": "Not specified",
@@ -290,18 +308,28 @@
       "article_link": "https://www.freejobalert.com/articles/uksssc-assistant-agriculture-officer-and-more-post-admit-card-2026-3071103"
     },
     {
-      "job_title": "High Court MTS and Driver Admit Card",
-      "organization_name": "Gauhati",
+      "job_title": "Land Surveyor Provisional Result",
+      "organization_name": "KEA",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/gauhati-high-court-mts-and-driver-admit-card-2026-3070939"
+      "article_link": "https://www.freejobalert.com/articles/kea-land-surveyor-provisional-result-2026-3072539"
     },
     {
-      "job_title": "High Court HJS Mains Admit Card",
-      "organization_name": "Delhi",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/delhi-high-court-hjs-mains-admit-card-2026-3070929"
+      "article_link": "https://www.freejobalert.com/articles/upsc-nda-2-result-2026-out-3072527"
+    },
+    {
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/india-post-gds-result-2026-3072113"
+    },
+    {
+      "job_title": "Medical Officer Result",
+      "organization_name": "UKMSSB",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ukmssb-medical-officer-result-2026-3072377"
     },
     {
       "job_title": "NHM Staff Nurse Result",
@@ -309,11 +337,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/tn-nhm-staff-nurse-result-2026-3071422"
-    },
-    {
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/india-post-gds-result-2026-3072113"
     },
     {
       "job_title": "Junior Engineer Civil CBT Result",
@@ -382,25 +405,25 @@
       "article_link": "https://www.freejobalert.com/articles/rrb-ministerial-and-isolated-category-result-2026-3071038"
     },
     {
-      "job_title": "LT Grade Assistant Teacher Mains Result",
-      "organization_name": "UPPSC",
+      "job_title": "Assistant Professor (College Cadre) Answer Key",
+      "organization_name": "HPPSC",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/uppsc-lt-grade-assistant-teacher-mains-result-2026-out-3068355"
+      "article_link": "https://www.freejobalert.com/articles/hppsc-assistant-professor-college-cadre-answer-key-2026-3072536"
     },
     {
-      "job_title": "Police Constable Result",
-      "organization_name": "Punjab",
+      "job_title": "Kannada Language Exam Answer Key",
+      "organization_name": "KEA",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/punjab-police-constable-result-2026-released-3071689"
+      "article_link": "https://www.freejobalert.com/articles/kea-kannada-language-exam-answer-key-2026-3072446"
     },
     {
-      "job_title": "ALP CBT-II Result",
-      "organization_name": "RRB",
-      "number_of_vacancies": "Not specified",
+      "job_title": "Answer Key",
+      "organization_name": "SSC Selection Phase",
+      "number_of_vacancies": "14",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/rrb-alp-cbt-ii-result-2026-3070722"
+      "article_link": "https://www.freejobalert.com/articles/ssc-selection-phase-14-answer-key-2026-3072350"
     },
     {
       "job_title": "Police Constable Final Answer Key",
@@ -485,27 +508,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/kea-assistant-horticulture-director-answer-key-2026-3071453"
-    },
-    {
-      "job_title": "Senior Industrial Inspector Provisional Answer Key",
-      "organization_name": "GSSSB",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/gsssb-senior-industrial-inspector-provisional-answer-key-2026-3071446"
-    },
-    {
-      "job_title": "Junior Health Inspector Provisional Answer Key",
-      "organization_name": "JKSSB",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/jkssb-junior-health-inspector-provisional-answer-key-2026-3071445"
-    },
-    {
-      "job_title": "Group-2 Sub Group-4 Patwari Answer Key",
-      "organization_name": "MPESB",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/mpesb-group-2-sub-group-4-patwari-answer-key-2026-3071371"
     },
     {
       "job_title": "Syllabus",
@@ -611,18 +613,32 @@
       "article_link": "https://www.freejobalert.com/articles/kea-kalyana-karnataka-group-c-syllabus-2026-3067569"
     },
     {
-      "job_title": "Special Police Officer",
-      "organization_name": "Odisha Police",
-      "number_of_vacancies": "89",
+      "job_title": "Various Posts",
+      "organization_name": "CDAC",
+      "number_of_vacancies": "844",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/odisha-police-special-police-officer-recruitment-2026-apply-offline-for-89-posts-3071553"
+      "article_link": "https://www.freejobalert.com/articles/c-dac-recruitment-2026-apply-online-for-project-engineer-project-manager-and-more-posts-3070943"
     },
     {
-      "job_title": "University Assistant Professor Result",
-      "organization_name": "Assam",
+      "job_title": "Nayak Hospital Junior Resident Walk-in",
+      "organization_name": "Lok",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/assam-university-assistant-professor-result-2026-3071618"
+      "article_link": "https://www.freejobalert.com/articles/lok-nayak-hospital-junior-resident-recruitment-2026-3072420"
+    },
+    {
+      "job_title": "Chowkidar, Sweeper",
+      "organization_name": "DSSSB",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/dsssb-sweeper-chowkidar-recruitment-2026-apply-online-for-25-posts-3072412"
+    },
+    {
+      "job_title": "Thiruvananthapuram Resident Staff Nurse",
+      "organization_name": "RCC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/rcc-thiruvananthapuram-resident-staff-nurse-recruitment-2026-apply-online-for-25-posts-3072408"
     },
     {
       "job_title": "Police SPO Posts",
@@ -632,19 +648,45 @@
       "article_link": "https://www.freejobalert.com/articles/odisha-police-spo-recruitment-2026-apply-offline-for-84-special-police-officer-posts-3072271"
     },
     {
-      "job_title": "Junior Court Assistant",
-      "organization_name": "Supreme Court",
-      "number_of_vacancies": "250",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/supreme-court-junior-court-assistant-recruitment-2026-apply-online-for-250-posts-3070583"
-    },
-    {
-      "job_title": "MTS and Havaldar Result",
-      "organization_name": "SSC",
+      "job_title": "Kakinada ASHA",
+      "organization_name": "DMHO",
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/ssc-mts-and-havaldar-result-2026-3071495"
+      "article_link": "https://www.freejobalert.com/articles/dmho-kakinada-asha-recruitment-2026-apply-offline-for-29-posts-3072233"
+    },
+    {
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/drdo-itr-apprentice-recruitment-2026-apply-online-for-54-posts-3072148"
+    },
+    {
+      "job_title": "LT Grade Assistant Teacher Mains Result",
+      "organization_name": "UPPSC",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/uppsc-lt-grade-assistant-teacher-mains-result-2026-out-3068355"
+    },
+    {
+      "job_title": "Police Constable Result",
+      "organization_name": "Punjab",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/punjab-police-constable-result-2026-released-3071689"
+    },
+    {
+      "job_title": "Senior Industrial Inspector Provisional Answer Key",
+      "organization_name": "GSSSB",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/gsssb-senior-industrial-inspector-provisional-answer-key-2026-3071446"
+    },
+    {
+      "job_title": "Assistant Professor",
+      "organization_name": "LTMGH",
+      "number_of_vacancies": "57",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/ltmgh-assistant-professor-recruitment-2026-apply-offline-for-57-posts-3072098"
     }
   ],
-  "updated_at": "2026-10-09T10:47:39.685Z"
+  "updated_at": "2026-10-10T10:08:07.963Z"
 }
