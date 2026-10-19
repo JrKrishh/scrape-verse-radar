@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/eil-recruitment-2026-associate-engineer-and-associate-officer-3074393"
+    },
+    {
       "job_title": "of Financial Service Presiding Officer",
       "organization_name": "Department",
       "number_of_vacancies": "Not specified",
@@ -97,13 +102,6 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/ongc-recruitment-2026-apply-online-for-20-associate-consultant-junior-consultant-posts-3074111"
-    },
-    {
-      "job_title": "India Various Posts",
-      "organization_name": "Oil",
-      "number_of_vacancies": "Not specified",
-      "last_date_to_apply": "Not specified",
-      "article_link": "https://www.freejobalert.com/articles/oil-india-executive-recruitment-2026-3073913"
     },
     {
       "job_title": "Technician",
@@ -607,7 +605,14 @@
       "number_of_vacancies": "Not specified",
       "last_date_to_apply": "Not specified",
       "article_link": "https://www.freejobalert.com/articles/supreme-court-jca-syllabus-and-exam-pattern-3070673"
+    },
+    {
+      "job_title": "India Various Posts",
+      "organization_name": "Oil",
+      "number_of_vacancies": "Not specified",
+      "last_date_to_apply": "Not specified",
+      "article_link": "https://www.freejobalert.com/articles/oil-india-executive-recruitment-2026-3073913"
     }
   ],
-  "updated_at": "2026-10-18T08:13:37.244Z"
+  "updated_at": "2026-10-19T09:11:06.630Z"
 }
